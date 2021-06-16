@@ -1,7 +1,8 @@
-namespace src.DIO.Series.Classes
+namespace DIO.Series
 {
     public abstract class EntidadeBase
     {
         public int Id { get; protected set; }
+
     }
 }
